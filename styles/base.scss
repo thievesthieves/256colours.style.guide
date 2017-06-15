@@ -3,3 +3,11 @@
 @import 'layout';
 @import 'typography';
 @import 'colours';
+
+body.debug {
+
+
+    article {
+        background-color: red;
+    }
+}
